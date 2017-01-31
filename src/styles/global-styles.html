@@ -1,0 +1,68 @@
+<html><head><link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
+
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700|Montserrat:400,700" rel="stylesheet">
+
+</head><body><dom-module id="global-styles">
+  <template>
+    <style>
+      :root {
+        /* ### Colors ### */
+
+        /* Greys */
+        --white-grey: #C6C8CE;
+        --light-grey: #95989A;
+        --default-grey: #56646E;
+        --deep-grey: #383F51;
+
+        /* Blues */
+        --white-blue: #DCE2F6;
+        --light-blue: #B9C6EC;
+        --default-blue: #5D7ACF;
+        --deep-blue: #443F9A;
+
+        /* ### Typefaces ### */
+
+        --lato: 'Lato', sans-serif;
+        --montserrat: 'Montserrat', sans-serif;
+
+        --body-font-style: {
+          font-family: var(--lato);
+          font-weight: 300;
+          color: var(--default-grey);
+          font-size: 1.125rem;
+        };
+
+        --header-font-style: {
+          font-family: var(--montserrat);
+          font-weight: 400;
+          color: var(--deep-grey);
+        }
+
+        --link-font-style: {
+          font-family: var(--montserrat);
+          font-weight: 400;
+          color: var(--default-blue);
+          text-decoration: none;
+        }
+
+        --bold-font-style: {
+          font-family: var(--montserrat);
+          font-weight: 700;
+        }
+      }
+      :host {
+        @apply(--body-font-style);
+      }
+      h1, h2, h3, h4, h5, h6 {
+        @apply(--header-font-style);
+      }
+      p {
+        line-height: 2;
+      }
+      a {
+        @apply(--link-font-style);
+      }
+    </style>
+  </template>
+</dom-module>
+</body></html>

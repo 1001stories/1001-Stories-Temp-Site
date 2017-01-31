@@ -1,0 +1,4 @@
+
+1,001 Stories is the home of our voices about water and climate change. We're working to create a global map of our voices, our concerns. A map that records our personal reflections and observations about changes in our environment. Stories that capture our favourite memories of adventure. Stories that capture our shared oral history. Click on a place and listen and learn about how water and climate change is silently affecting all of us.
+
+Starting in 2014 People's Climate March in NYC. To date Devi Lockwood has collected over six hundred interviews from people across the global. In the USA, Fiji, Tuvalu, New Zealand, Australia, Thailand, Laos, Cambodia, Qatar, Morocco, and the U.K. Travelling by boat and bicycle, Devi aims to collect 1,001 stories from the people she meets. We'll be putting these interviews and photographs here to make them accessible, to help raise our voices and to preserve our history.
